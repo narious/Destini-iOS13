@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C041C9F257F1AA400CF5E8F /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C041C9E257F1AA400CF5E8F /* Node.swift */; };
 		AD7631D422FC5E7E00C6E71B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */; };
 		AD7631D622FC5E7E00C6E71B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */; };
 		AD7631D822FC5E7E00C6E71B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7631D722FC5E7E00C6E71B /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C041C9E257F1AA400CF5E8F /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		AD7631D022FC5E7E00C6E71B /* Destini-iOS13.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Destini-iOS13.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				AD7631E922FC64C100C6E71B /* Story.swift */,
+				4C041C9E257F1AA400CF5E8F /* Node.swift */,
 				AD7631EC22FC64E400C6E71B /* StoryBrain.swift */,
 			);
 			path = Model;
@@ -174,6 +177,7 @@
 			files = (
 				AD7631ED22FC64E400C6E71B /* StoryBrain.swift in Sources */,
 				AD7631D822FC5E7E00C6E71B /* ViewController.swift in Sources */,
+				4C041C9F257F1AA400CF5E8F /* Node.swift in Sources */,
 				AD7631D422FC5E7E00C6E71B /* AppDelegate.swift in Sources */,
 				AD7631D622FC5E7E00C6E71B /* SceneDelegate.swift in Sources */,
 				AD7631EA22FC64C100C6E71B /* Story.swift in Sources */,
